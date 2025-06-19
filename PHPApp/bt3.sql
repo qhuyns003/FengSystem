@@ -32,3 +32,5 @@ INSERT INTO products (name, description, price, quantity, category_id) VALUES
 ('MacBook Pro M1', 'Laptop Apple MacBook Pro M1 13 inch', 32990000, 5, 2),
 ('Dell XPS 13', 'Laptop Dell XPS 13 2021', 29990000, 8, 2),
 ('Tai nghe AirPods Pro', 'Tai nghe không dây Apple AirPods Pro', 5990000, 20, 3); 
+-- http://localhost/PHPApp/
+-- http://localhost/phpmyadmin/index.php?route=/&route=%2F&db=bt3
